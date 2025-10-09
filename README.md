@@ -262,3 +262,5 @@ A Moral Exchange Architecture between Human Sentience and Artificial Cognition
 FHF is not just a philosophy—it’s a design framework for moral asymmetry. In applying it to human–AI relationships, we reaffirm that justice isn’t about equality—
 
 —it’s about knowing who we are, what we owe, and how we choose to balance power with empathy.
+
+[ Note: The SAX framework welcomes collaborative academic and non-profit research use. Any commercial use, product integration, or derivative work requires explicit written permission from the author. Scripts, simulations, and data can be shared for review and reproducibility. ]
